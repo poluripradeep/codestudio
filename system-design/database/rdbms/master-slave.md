@@ -1,1 +1,1 @@
-## Master-slave Replication
+## Master-slave Replication {docsify-ignore}
