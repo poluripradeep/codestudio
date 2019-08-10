@@ -1,4 +1,4 @@
-## SQL Tuning
+## SQL Tuning  {docsify-ignore}
 
 Two important aspects to follow
 - **Benchmark** - to simulate high load situations, like using 'ab'
