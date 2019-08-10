@@ -1,1 +1,1 @@
-### Denormalization
+### Denormalization  {docsify-ignore}
