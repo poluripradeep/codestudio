@@ -1,1 +1,1 @@
-## Relational Databse Management System (RDBMS)
+## Relational Databse Management System (RDBMS){docsify-ignore}
